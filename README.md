@@ -1,10 +1,13 @@
-# 🌸 Tugas Pengolahan Citra Digital - Konvolusi & Mask Processing
+Azmi Novi Athaya (2301020001)
+Ezzy Auriel Syach Lie (2301020011)
+
+# Tugas Pengolahan Citra Digital - Konvolusi & Mask Processing
 
 Repositori ini berisi serangkaian program Python yang dibuat untuk memenuhi tugas mata kuliah **Pengolahan Citra Digital**. Tujuan utama dari proyek ini adalah untuk memahami dan mengimplementasi operasi peningkatan mutu citra (Image Enhancement) menggunakan teknik **Konvolusi Spasial (Mask Processing)**.
 
 ---
 
-## 🚀 Daftar File Program
+##  Daftar File Program
 
 Terdapat 3 versi program utama yang disertakan dalam repositori ini, masing-masing memiliki tujuan dan standar yang berbeda:
 
