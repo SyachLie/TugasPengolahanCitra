@@ -1,4 +1,4 @@
-Azmi Novi Athaya (2301020001)
+Azmi Novi Athaya (2301020001)  
 Ezzy Auriel Syach Lie (2301020011)
 
 # Tugas Pengolahan Citra Digital - Konvolusi & Mask Processing
